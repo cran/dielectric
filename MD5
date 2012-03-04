@@ -1,9 +1,9 @@
-53fccc3bae02c5a94263f125c2115957 *DESCRIPTION
-77e520491c59bf6e960ca51bdf4ea77f *NAMESPACE
-4e6be081d36ecabb54fc2c47230c5a46 *NEWS
+e21db8bb10d93e3cf99dc6d3962e3ec7 *DESCRIPTION
+785300757b6e2a22bb6e9a3290dcd3dd *NAMESPACE
+a1ea7c6af58be532289627eb190a716f *NEWS
 4ba7b91113b1e1727423a5deb0ba3faf *R/conversions.R
 fa9b31e70f31a6d83402ee0335a24917 *R/dielectric.r
-fa7a6d122e3bc1d53c2c28e83098ed45 *R/drude.r
+97f25952deb4c3479569e70f4be5ca45 *R/drude.r
 d57e951d5bf47331cb48c13ffdab6cfa *R/metals.r
 f0a79c0d0809d3bcbb262465dd9b66ae *R/plot.r
 f0c05e4fa098e2d814e0a1e07ccc6521 *R/zzz.r
@@ -14,7 +14,7 @@ f98c576e5a3ed425001ff92c8aca533a *data/AuJC.rda
 62283eb49d51dd6211f0106f683a1757 *data/constants.rda
 4b2db954fb2be80e4035d9de046ce292 *demo/00Index
 ff634bb80fe710430f79d165773944fa *demo/AgPalik.r
-13dd5270db068653765c93166707dca6 *demo/AuJC.r
+b78b4482a82cdb3e704a46fdefe3b211 *demo/AuJC.r
 dadc2815b886a1583f6343678d2a32fd *demo/Si.r
 9df9a35d54b04366fe5051cc8ace28dd *inst/rawdata/AuAg.r
 1b59b12178886be94546540b271e2f7b *inst/rawdata/silicon.r
@@ -26,9 +26,9 @@ d0af7655514212e41abdca0016489114 *man/aSi.Rd
 3af632e7c1ff026d543968b0c766afe7 *man/constants.Rd
 969112373a6289220e5893b553a261cf *man/dielectric.Rd
 9e2771ea2ed33b3ba9698a70be1b0794 *man/dielectric2plot.Rd
-685f7714f9ce8633aa6871d2a98b8194 *man/drude.Rd
+95d79acc47c9d7b644236c74efb0dd78 *man/drude.Rd
 73b2f3e7c64ea10867795b63099c21f0 *man/eV2L.Rd
 91da9b78a117b45a3d48b976e3b44cdc *man/epsAg.Rd
 aae91dec9f8c77594308c7bb05dfbdca *man/epsAu.Rd
-053185c1f0b1204640f24eba159dd5ca *man/fitDrude.Rd
+21f3dc201c5d26a0db6960ad170f95f6 *man/fit_drude.Rd
 dbf98b4c7e8817fe0fa69baefa8026be *man/t2eV.Rd
