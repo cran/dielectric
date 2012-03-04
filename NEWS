@@ -1,13 +1,5 @@
+dielectric 0.2.1 (2013-01-06)
 
-dielectric 0.2 (2012-03-04) 
-----------------------------------------
+* NEW added
 
-USER-VISIBLE CHANGES:
-
-* added span field to dielectric class
-
-
-dielectric 0.1 (2012-07-26) 
-----------------------------------------
-
-Initial CRAN release.
+* units are in nm
